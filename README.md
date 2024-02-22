@@ -139,7 +139,7 @@ https://app.powerbi.com/view?r=eyJrIjoiNWRmYjg3MGEtYzMyNy00ODk1LTg1YmEtMjA4ZjZhM
 * Região 1 conta com 6 estados e atende 12 cidades, comparando com a região 2 que atende 11 estados e apenas 11 cidades, vale uma análise de uma possível expansão nessa região, atendendo mais cidades.
 * Paraná foi o estado com a pior perfomance de venda bruta com o valor de R$270.693 e 3.22% de representatividade do total. Vale análise, curitiba é uma cidade grande e com comércio grande.
 * Porto alegre é a cidade que em relação ao total representou o maior valor de lucro com R$115.996, 5.73% do total e 2.323 vendas.
-* A cidade que tem a pior perfomance em relação a lucro é Belo horizonte com apenas R$55.847 e 2.76% de lucro do total. Vale uma análise pois é uma metropole, deveria estar próximo a SP e RS.
+* A cidade que tem a pior perfomance em relação a lucro é Belo horizonte com apenas R$55.847 e 2.76% de lucro do total. Vale uma análise pois é uma metropole, deveria estar próximo a São Paulo e Porto Alegre.
 
 
 
