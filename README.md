@@ -1,5 +1,8 @@
 # Análise venda bruta e lucro xNstore 2021-2023
 
+# Link para o dashboard
+https://app.powerbi.com/view?r=eyJrIjoiNWRmYjg3MGEtYzMyNy00ODk1LTg1YmEtMjA4ZjZhMWNkN2Y2IiwidCI6IjM1ZmZkMDk1LTM4MWQtNDA3MC1hOGM1LTIwOGJhYzgzNTMwOSJ9
+
 * Case - Nos foi solicitado uma análise sobre venda bruta e lucro desde o momento em que a empresa passou a registrar as vendas em sistemas atualizados. 
 
 * 1º Temporal - Observar a tendência dos valores e identificar focos ou desfocos.
